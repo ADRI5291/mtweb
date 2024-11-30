@@ -1,0 +1,63 @@
+html {
+    font-family: sans-serif;
+    background: lightblue;
+    font-size: 16px;
+    text-align: center;
+    color: white;
+    background-color: aqua;
+}
+header{
+  color: black;
+}
+
+header a{
+ background-color: aqua;
+  border-radius: 100px;
+  margin: 20px;
+  padding: 10px;
+}
+
+
+.icon{
+ background-color: aqua;
+  border-radius: 100px;
+  margin: 20px;
+  padding: 10px;
+}
+    
+.well{
+ background-color: black;
+  border-radius: 100px;
+  margin: 50px;
+  padding: 10px;
+}
+.sigma{
+ background-color: aquamarine;
+  border-radius: 100px;
+  margin: 60;
+  padding: 10px;
+}
+.ss{
+ background-color: red;
+  border-radius: 100px;
+  margin: 60;
+  padding: 10px;
+}
+.tayler{
+ background-color: purple;
+  border-radius: 100px;
+  margin: 60;
+  padding: 10px;
+}
+.ta{
+ background-color: royalblue;
+  border-radius: 100px;
+  margin: 60;
+  padding: 10px;
+}
+.t{
+ background-color: aqua;
+  border-radius: 100px;
+  margin: 60;
+  padding: 10px;
+}
